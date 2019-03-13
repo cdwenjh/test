@@ -16,7 +16,7 @@ public class Guess {
     public static void main(String[] args){
         new Guess().test();
     }
-
+	
     public void test() {
         MonkeyGuessImpl monkeyGuess = new MonkeyGuessImpl();
         Number num = new Number();
@@ -38,6 +38,7 @@ public class Guess {
                 System.out.println("输⼊不正确，重新输⼊");
                 continue;
             }
+			
             for (int i = 0; i < arr.length; i++) {
                 b[i] = Integer.parseInt(arr[i]);
             }
