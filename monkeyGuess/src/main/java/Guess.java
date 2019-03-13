@@ -14,7 +14,6 @@ import java.util.Scanner;
  **/
 public class Guess {
     public static void main(String[] args){
-        /*单元测试在idea上没用过没搞出来，github也没用过，一直用svn*/
         new Guess().test();
     }
 
