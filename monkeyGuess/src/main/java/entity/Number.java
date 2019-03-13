@@ -2,7 +2,7 @@ package entity;
 
 /**
  * @ClassName : Number
- * @Description: 猜数实体列
+ * @Description: 猜数实体类
  * @Company: com.yinhai
  * @Author: Mr.Wen
  * @Create: 2019/3/11
